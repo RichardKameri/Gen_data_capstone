@@ -1,4 +1,7 @@
 Credit Card Trends Analysis
+## 📊 Dashboard Snapshot
+
+![Credit Card Dashboard]("C:\Users\hp\Downloads\Dashboard 2.png")
 
 Overview
 
